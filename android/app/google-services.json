@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "545177001311",
+    "project_id": "locationsharing-be34c",
+    "storage_bucket": "locationsharing-be34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545177001311:android:91968bc77f3bee6f63aaea",
+        "android_client_info": {
+          "package_name": "com.locationsharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545177001311-slpajrc3thv2iuuc0bohme6akld47hpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locationsharing",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "545177001311-gknau752elddjucnooncs55ifdg7q2qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7cXfUZMx3DsYZd5peiUVBRIyvl9D24U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545177001311-gknau752elddjucnooncs55ifdg7q2qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545177001311-e84msb9bphskq4i8t1nn9md1q1b5ksu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.locationsharing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
